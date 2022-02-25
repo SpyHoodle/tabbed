@@ -1,6 +1,8 @@
 # tabbed
 My build of suckless's tabbed, with better keybinds and colours.
-1
+
+![tabbed screenshot](https://file.coffee/u/nb0c4GY8kLv84y.png)
+
 # installation
 Clone the git repository
 ```sh
